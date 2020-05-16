@@ -1,0 +1,6 @@
+<keymap version="1" name="Default for Windows ditoding" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord" />
+</keymap>
