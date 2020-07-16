@@ -13,6 +13,7 @@
       <mapping pattern="PRODUCE_SAM_MERGE_FILE" type="PLAIN_TEXT" />
       <mapping pattern="ConfigDeployInstruction" type="PLAIN_TEXT" />
       <mapping pattern="TestCases" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
