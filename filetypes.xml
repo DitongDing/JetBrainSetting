@@ -12,12 +12,14 @@
       <mapping pattern="config/currency-units" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".read_me" type="PLAIN_TEXT" />
+      <mapping pattern="turtle-config" type="PLAIN_TEXT" />
       <mapping pattern="ConfigDeployInstruction" type="PLAIN_TEXT" />
       <mapping pattern=".gitdelete" type="PLAIN_TEXT" />
       <mapping pattern="PRODUCE_BATS_CONFIG_FILE" type="PLAIN_TEXT" />
       <mapping pattern="currency-units" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
+      <mapping pattern="/etc/turtle-config" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
