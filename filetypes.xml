@@ -16,6 +16,7 @@
       <mapping pattern="ConfigDeployInstruction" type="PLAIN_TEXT" />
       <mapping pattern=".gitdelete" type="PLAIN_TEXT" />
       <mapping pattern="PRODUCE_BATS_CONFIG_FILE" type="PLAIN_TEXT" />
+      <mapping pattern="script/turtle.sh" type="PLAIN_TEXT" />
       <mapping pattern="currency-units" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
