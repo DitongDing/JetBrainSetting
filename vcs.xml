@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/stripe-samples/subscription-use-cases/tree/master/usage-based-subscriptions" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/stripe-samples/subscription-use-cases.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/workplace/Santos/Stripe" />
