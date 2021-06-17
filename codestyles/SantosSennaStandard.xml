@@ -1,0 +1,12 @@
+<code_scheme name="SantosSennaStandard" version="173">
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value />
+    </option>
+  </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="WRAP_COMMENTS" value="true" />
+  </codeStyleSettings>
+</code_scheme>
