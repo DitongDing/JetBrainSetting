@@ -2,25 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.gitignore;.gradle;.hg;.rakeTasks;.svn;CVS;__pycache__;_svn;annotation-generated*;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping pattern="resources/mockito-extensions" type="AUTO_DETECTED" />
-      <mapping pattern="testDataV0" type="AUTO_DETECTED" />
-      <mapping pattern="resource/mockito-extensions" type="AUTO_DETECTED" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="PRODUCE_SAM_MERGE_FILE" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".read_me" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="PRODUCE_BATS_CONFIG_FILE" type="PLAIN_TEXT" />
-      <mapping pattern=".gitdelete" type="PLAIN_TEXT" />
-      <mapping pattern="ConfigDeployInstruction" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping ext="mockmaker" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="us-east-1" type="PLAIN_TEXT" />
-      <mapping ext="smithy" type="PLAIN_TEXT" />
+      <removed_mapping ext="svg" type="SVG" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -30,6 +12,25 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping ext="smithy" type="PLAIN_TEXT" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="us-east-1" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitdelete" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".read_me" type="PLAIN_TEXT" />
+      <mapping pattern="ConfigDeployInstruction" type="PLAIN_TEXT" />
+      <mapping pattern="PRODUCE_BATS_CONFIG_FILE" type="PLAIN_TEXT" />
+      <mapping pattern="PRODUCE_SAM_MERGE_FILE" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="resource/mockito-extensions" type="AUTO_DETECTED" />
+      <mapping pattern="resources/mockito-extensions" type="AUTO_DETECTED" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="testDataV0" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
