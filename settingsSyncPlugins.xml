@@ -2,6 +2,42 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
+        <entry key="com.amazon.ijbp">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.plugins.terminal" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.bigdatatools">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.ultimate" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.sonnk.iterm">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="org.intellij.scala">
           <value>
             <PluginData>
@@ -13,7 +49,7 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="org.jetbrains.kotlin">
+        <entry key="org.jetbrains.plugins.ruby">
           <value>
             <PluginData />
           </value>

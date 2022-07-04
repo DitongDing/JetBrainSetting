@@ -1,0 +1,8 @@
+<application>
+  <component name="MidwayCredentialsExpiration">
+    <option name="midwayCredentialsExpiration" value="2022-05-21T09:47:19" />
+  </component>
+  <component name="MidwaySettings">
+    <option name="midwayCredentialsCheckerEnabled" value="false" />
+  </component>
+</application>
