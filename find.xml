@@ -11,7 +11,7 @@
     <mask>*.cfg</mask>
     <mask>*Module.java</mask>
     <mask>*smithy</mask>
-    <mask>*.java</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
